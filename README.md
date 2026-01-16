@@ -38,43 +38,6 @@ By completing this project, you will be able to:
 
 ---
 
-## Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/streamlit-crash-course.git
-cd streamlit-crash-course
-Create and activate a virtual environment
-
-bash
-Copy code
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
-Install dependencies
-
-bash
-Copy code
-pip install -r requirements.txt
-Ensure requirements.txt contains at least:
-
-txt
-Copy code
-streamlit
-pandas
-numpy
-Usage
-Run any of the apps locally using Streamlit:
-
-bash
-Copy code
-streamlit run lecture1.py
-Replace lecture1.py with the file you want to open.
-
-The terminal will provide a local URL (usually http://localhost:8501) to view the app in your browser.
-
 
 Credits
 This repository and learning path are based on the Streamlit Crash Course with Showcase Projects by Chai aur Code. Special thanks to the creator for the structured tutorials that guided the development of this project.
